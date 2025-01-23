@@ -4,7 +4,7 @@ function Navigation() {
   return (
     <nav className="navbar navbar-expand-lg bg-primary ">
       <div className="container ">
-        <span className="navbar-brand text-white">Navbar</span>
+        <span className="navbar-brand text-white">InternHouse</span>
         <button
           className="navbar-toggler bg-white"
           type="button"
