@@ -174,10 +174,6 @@ function PostAJob() {
           Submit
         </button>
       </form>
-      {status === "successfull" && (
-        <p className="text-success">Job has been successfully posted</p>
-      )}
-      {!error && <p className="">{error}</p>}
     </div>
   );
 }
